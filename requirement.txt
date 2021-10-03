@@ -1,0 +1,6 @@
+streamlit
+joblit
+pandas
+selinium
+numpy 
+datetime 
