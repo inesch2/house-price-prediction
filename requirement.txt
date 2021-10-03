@@ -1,6 +1,6 @@
-streamlit
-joblit
+joblib
+sklearn
 pandas
-selinium
-numpy 
-datetime 
+numpy
+datetime
+streamlit
